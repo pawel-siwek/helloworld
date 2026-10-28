@@ -1,0 +1,23 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f8fafc;
+  color: #1f2937;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  box-sizing: border-box;
+  display: grid;
+  min-height: 100vh;
+  padding: 1rem;
+  place-items: center;
+}
+
+h1 {
+  max-width: 100%;
+  margin: 0;
+  font-size: clamp(1.25rem, 10vw, 4rem);
+  line-height: 1.2;
+  text-align: center;
+}

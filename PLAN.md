@@ -6,9 +6,10 @@ Build the static page described in [SPEC.md](SPEC.md): only `Hello World`,
 centered on a light background, using HTML and CSS without dependencies.
 It must work offline and on static hosting, including under a URL subpath.
 
-The specification and README are prepared. Application implementation and
-runtime verification are pending. Publishing these documents is not an
-application release or a hosting deployment.
+The specification and static page implementation are complete. Structural
+checks, an HTTP subpath check, and a Chromium smoke check passed; viewport and
+200% zoom rendering checks remain unverified. Publishing these files is not a
+hosting deployment.
 
 ## Team: three agents and one coordinator
 
