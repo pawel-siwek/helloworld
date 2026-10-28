@@ -1,11 +1,9 @@
 # Hello World
 
-**Status: planning.** This repository currently contains the specification and
-[implementation plan](PLAN.md). The application files described below are not
-implemented yet; the usage instructions apply once they are added.
+**Status: implemented.** The page is built with plain HTML and CSS; there is no
+build step, JavaScript, backend, or dependency to install.
 
-A minimal static page that displays `Hello World`. It uses plain HTML and CSS;
-there is no build step, JavaScript, backend, or dependency to install.
+A minimal static page that displays `Hello World`.
 
 ## Open locally
 
